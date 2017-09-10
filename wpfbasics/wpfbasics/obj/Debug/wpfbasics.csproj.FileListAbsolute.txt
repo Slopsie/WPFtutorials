@@ -1,0 +1,15 @@
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\bin\Debug\wpfbasics.exe.config
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\bin\Debug\wpfbasics.exe
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\bin\Debug\wpfbasics.pdb
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\wpfbasics.csprojResolveAssemblyReference.cache
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\MainWindow.g.cs
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\App.g.cs
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\wpfbasics_MarkupCompile.cache
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\wpfbasics_MarkupCompile.lref
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\MainWindow.baml
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\wpfbasics.g.resources
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\wpfbasics.Properties.Resources.resources
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\wpfbasics.csproj.GenerateResource.Cache
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\wpfbasics.csproj.CoreCompileInputs.cache
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\wpfbasics.exe
+C:\Users\Sjors\source\repos\wpfbasics\wpfbasics\obj\Debug\wpfbasics.pdb
